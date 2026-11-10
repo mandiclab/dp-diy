@@ -1,4 +1,4 @@
-# *DP-DIY - The World's First Handheld Sim Racing Controller*
+# *DP-DIY - Handheld Sim Racing Controller*
 DP-DIY is an open-source handheld sim racing controller that you can make at home without special tools, skill or knowledge.  
 
 ## ▶️ Video Preview & Tutorial
